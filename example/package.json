@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@dtyped/http-response": "1.0.0",
+    "dtyped": "1.0.0"
+  }
+}

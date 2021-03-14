@@ -1,3 +1,7 @@
+.idea
+dtyped
+!example/dtyped
+
 # Logs
 logs
 *.log

@@ -1,0 +1,12 @@
+{
+  "name": "@dtyped/http-response",
+  "version": "1.0.0",
+  "license": "MIT",
+  "types": "./dist/index.d.ts",
+  "dtyped": "./dist/index.js",
+  "private": false,
+  "dependencies": {
+    "dtyped": "1.0.0",
+    "got": "^11.8.2"
+  }
+}
